@@ -21,11 +21,11 @@ function Header() {
     return (
         <div>
             <label>
-                <Link to = '/'>Home</Link>
+                <Link to = 'https://b-kumaraswamy.github.io/reactAuthentication/'>Home</Link>
             </label> 
             <label> </label>
             <label>
-                <Link to = '/about'>About</Link>
+                <Link to = 'https://b-kumaraswamy.github.io/reactAuthentication/about'>About</Link>
             </label>
             <label> </label>
             <button onClick = {onLogOut}>Log Out</button>

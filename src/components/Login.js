@@ -6,7 +6,7 @@ function Login() {
     const token = Cookie.get('jwt-token')
 
     if (token !== undefined) {
-        return <Navigate to = '/'/>
+        return <Navigate to = 'https://b-kumaraswamy.github.io/reactAuthentication/'/>
     }
 
 
@@ -24,7 +24,7 @@ const onLogIn = async () => {
     if (response.ok === true) {
         const jwtToken = res.jwt_token;
         Cookie.set('jwt-token', jwtToken);
-        changePath('/');
+        changePath('https://b-kumaraswamy.github.io/reactAuthentication/');
               
     }
 

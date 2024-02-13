@@ -6,7 +6,7 @@ function Home() {
 
     const cookie = Cookies.get('jwt-token');
     if(cookie === undefined){
-        return <Navigate to = '/login'/>
+        return <Navigate to = 'https://b-kumaraswamy.github.io/reactAuthentication/login'/>
     }
     return (
         <div>

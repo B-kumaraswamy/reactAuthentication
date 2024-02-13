@@ -33,9 +33,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/login" element={<Login />} />
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
+        <Route path="https://b-kumaraswamy.github.io/reactAuthentication/login" element={<Login />} />
+        <Route path="https://b-kumaraswamy.github.io/reactAuthentication/" element={<Home />} />
+        <Route path="https://b-kumaraswamy.github.io/reactAuthentication/about" element={<About />} />
         <Route path="*" element={<Notfound />} />
       </Routes>
     </Router>
