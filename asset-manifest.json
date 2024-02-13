@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactAuthentication/static/css/main.e6c13ad2.css",
-    "main.js": "/reactAuthentication/static/js/main.552d12f9.js",
+    "main.js": "/reactAuthentication/static/js/main.32ec19ed.js",
     "static/js/787.1e034937.chunk.js": "/reactAuthentication/static/js/787.1e034937.chunk.js",
     "index.html": "/reactAuthentication/index.html",
     "main.e6c13ad2.css.map": "/reactAuthentication/static/css/main.e6c13ad2.css.map",
-    "main.552d12f9.js.map": "/reactAuthentication/static/js/main.552d12f9.js.map",
+    "main.32ec19ed.js.map": "/reactAuthentication/static/js/main.32ec19ed.js.map",
     "787.1e034937.chunk.js.map": "/reactAuthentication/static/js/787.1e034937.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.552d12f9.js"
+    "static/js/main.32ec19ed.js"
   ]
 }
